@@ -1,0 +1,66 @@
+body, html {
+    background-color: #82ff96;
+    height: 100%;
+    background-size: 100%;
+    background-image: url(images/banners/tomnook.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+
+/* Navbar Styles */
+#navBar{
+    background-color: #82ff96;
+}
+a {
+    color: black;
+}
+/* Navbar Styles */
+
+/* Jumbo Styles */
+#jumboMumbo {
+    background-color: #ffe77d;
+    text-align: center;
+}
+.hemButton {
+    background-color: #82ff96;
+    width: 200px;
+    height: 60px;
+    border: solid black 3px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}  
+.btn {
+    width: 150px;
+}
+.headerDate {
+    margin-top: 20px;
+    margin-bottom: -5px;
+    font-size: 0.9em;
+}
+#dataLoad {
+    text-align: center;
+    margin-top: 25px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-bottom: -25px;
+}
+/* Jumbo Styles */
+
+/* Table Styles */
+.table {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #ffe77d;
+    border-collapse: collapse;
+}
+.headers {
+    text-align: center;
+    font-weight: bold;
+}
+.tableValues {
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+}
+/* Table Styles */
